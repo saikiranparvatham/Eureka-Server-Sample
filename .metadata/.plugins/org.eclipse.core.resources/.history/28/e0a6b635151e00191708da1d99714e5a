@@ -1,0 +1,14 @@
+package com.eurekaclientwebsite.example.EurekaClientWebsite;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EurekaClientWebsiteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EurekaClientWebsiteApplication.class, args);
+	}
+
+}
+

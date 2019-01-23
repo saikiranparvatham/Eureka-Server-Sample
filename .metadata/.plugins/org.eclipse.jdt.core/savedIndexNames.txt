@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Spring Eureka Server example\.metadata\.plugins\org.eclipse.jdt.core
+1889324845.index
+2507455363.index
+990236012.index
+3327856890.index
+335211976.index
+1732798217.index
+2502827780.index
+2925612769.index
+1396304974.index

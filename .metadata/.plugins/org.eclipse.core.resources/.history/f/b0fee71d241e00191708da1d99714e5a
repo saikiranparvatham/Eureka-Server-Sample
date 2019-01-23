@@ -1,0 +1,5 @@
+package com.eurekaclientwebsite.example.EurekaClientWebsite.controller;
+
+public class HelloController {
+
+}

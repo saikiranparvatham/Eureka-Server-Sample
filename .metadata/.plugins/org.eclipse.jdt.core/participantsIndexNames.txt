@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Spring Eureka Server example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\262677353.index
+\EurekaClientWebsite\src\main\java
